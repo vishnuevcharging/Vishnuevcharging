@@ -12,8 +12,8 @@ Responsive multi-page static website designed for GitHub Pages and a custom doma
 - `404.html` — not-found page
 
 ## Before publishing
-1. Replace `YOUR-EMAIL@example.com` in `partner.html`, `contact.html`, and `assets/script.js` defaults with the official business email.
-2. Replace `https://wa.me/` with `https://wa.me/91XXXXXXXXXX` using the official WhatsApp number.
+1. Replace `Support@Vishnuevcharging.com` in `partner.html`, `contact.html`, and `assets/script.js` defaults with the official business email.
+2. Replace `https://wa.me/919758896217` with `https://wa.me/91975889621791XXXXXXXXXX` using the official WhatsApp number.
 3. Add the official phone number, address, verified station locations and any official charging-app links.
 4. Replace Unsplash image URLs with your own station photographs if available and ensure your image usage rights.
 5. Review all claims and only publish verified charger specifications, network coverage, partner terms and investment information.
