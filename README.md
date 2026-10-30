@@ -35,7 +35,3 @@ The enquiry forms currently prepare a message in the visitor's email app using `
 - The website is static HTML/CSS/JS: no build step required.
 - It is mobile responsive.
 - Investment-related language is intentionally non-guaranteed; have all commercial terms reviewed before publication.
-
-
-## WhatsApp enquiry forms
-The Contact and Partner enquiry forms are configured to open WhatsApp chat with Vishnu EV at **+91 97588 96217**, with the visitor's completed form fields pre-filled in the message. The visitor must review and press **Send** in WhatsApp; the website cannot send a WhatsApp message on their behalf or store the enquiry automatically. No Formspree ID or backend is required for this WhatsApp flow.
