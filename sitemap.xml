@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://YOUR-DOMAIN.example/</loc></url><url><loc>https://YOUR-DOMAIN.example/charging-solutions.html</loc></url><url><loc>https://YOUR-DOMAIN.example/partner.html</loc></url><url><loc>https://YOUR-DOMAIN.example/network.html</loc></url><url><loc>https://YOUR-DOMAIN.example/about.html</loc></url><url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://vishnuevcharging.com/</loc></url>
+  <url><loc>https://vishnuevcharging.com/charging-solutions.html</loc></url>
+  <url><loc>https://vishnuevcharging.com/partner.html</loc></url>
+  <url><loc>https://vishnuevcharging.com/network.html</loc></url>
+  <url><loc>https://vishnuevcharging.com/about.html</loc></url>
+  <url><loc>https://vishnuevcharging.com/contact.html</loc></url>
+  <url><loc>https://vishnuevcharging.com/privacy-policy.html</loc></url>
+  <url><loc>https://vishnuevcharging.com/terms-of-service.html</loc></url>
+  <url><loc>https://vishnuevcharging.com/refund-and-cancellation-policy.html</loc></url>
+</urlset>
